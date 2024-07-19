@@ -56,7 +56,7 @@ var levels = [
     pollution : 0,
     spawnpoints: [[5,6],[7,6],[9,6],[11,7]],
     seauSpawnpoints: [[7,4],[12,7]],
-    imagePath: "assets/miniMap/level1.PNG",
+    imagePath: "assets/miniMap/level1.png",
     name: "Tutoriel 1",
     tutoText:[
       'Bonjour messieurs. Alors comme ça c\'est vous la nouvelle équipe de recyclage ?\nSi vous souhaitez que je saute les étapes afin de continuer les instructions, cliquez dans le vide.\nSi vous savez déjà comment tout fonctionne, je ne vous retiens pas plus, vous pouvez cliquer sur \"SKIP\". ',
@@ -92,7 +92,7 @@ var levels = [
     pollution : 0,
     spawnpoints: [[5,6],[12,5],[7,6],[14,5]],
     seauSpawnpoints: [[8,6],[9,6]],
-    imagePath: "assets/miniMap/level2.PNG",
+    imagePath: "assets/miniMap/level2.png",
     name: "Tutoriel 2",
     tutoText: [
       'Faites attention, vous allez maintenant être confronté à un problème fondamental: le tri! Dans cette usine vous allez devoir recyler à la fois des pneux et des bidons de plastique.',
@@ -129,7 +129,7 @@ var levels = [
     pollution : 0,
     spawnpoints: [[5,6],[13,6],[9,6],[15,6]],
     seauSpawnpoints: [],
-    imagePath: "assets/miniMap/level3.PNG",
+    imagePath: "assets/miniMap/level3.png",
     name: "Tutoriel 3",
     tutoText: [
       'Nous allons maintenant nous attaquer aux cartons.',
@@ -162,7 +162,7 @@ var levels = [
     pollution : 0,
     spawnpoints: [[4,5],[14,6],[7,5],[11,6]],
     seauSpawnpoints: [[13,4],[5,8]],
-    imagePath: "assets/miniMap/level4.PNG",
+    imagePath: "assets/miniMap/level4.png",
     name: "Tutoriel 4",
     tutoText: [
       'Aujourd\'hui, en plus du carton vous devrez recycler des canettes métalliques. Vous n\'imaginez pas on en récupère chaque année!',
@@ -195,7 +195,7 @@ var levels = [
     pollution : 0,
     spawnpoints: [[4,5],[14,4],[7,5],[12,4]],
     seauSpawnpoints: [[4,8],[16,8]],
-    imagePath: "assets/miniMap/level5.PNG",
+    imagePath: "assets/miniMap/level5.png",
     name: "Tutoriel 5",
     tutoText: [
       'Enfin le dernier élément majeur du recyclage: le verre!',
@@ -229,7 +229,7 @@ var levels = [
     pollution : 0,
     spawnpoints: [[4,5],[14,4],[7,5],[12,4]],
     seauSpawnpoints: [[16,8],[16,7]],
-    imagePath: "assets/miniMap/level6.PNG",
+    imagePath: "assets/miniMap/level6.png",
     name: "Tutoriel 6",
     tutoText: [
       'Les habitants ne trient pas toujours leurs dechets. En plus de ne pas être très propre, cela nous complexifie la tâche. Ici nous pourrons donc avoir des sacs poubelle avec des déchets inconnus à l\'interieur',
@@ -262,7 +262,7 @@ var levels = [
       pollution : 0,
     spawnpoints: [[5,5],[6,4],[6,5],[5,4]],
     seauSpawnpoints: [[6,8],[9,5],[9,6]],
-    imagePath: "assets/miniMap/level7.PNG",
+    imagePath: "assets/miniMap/level7.png",
     name: "Tutoriel 7",
     tutoText: [
       'Il se peut que des véhicules de transport circulent près de votre espace de travail.',
@@ -328,7 +328,7 @@ var levels = [
     pollution : 0,
     spawnpoints: [[6,6],[14,5],[12,5],[8,6]],
     seauSpawnpoints: [[10,4],[10,7]],
-    imagePath: "assets/miniMap/levelCoop1.PNG",
+    imagePath: "assets/miniMap/levelCoop1.png",
     name: "Fait la passe",
     tutoText: [
       'J\'espère que vous formez une bonne équipe, ici vous ne pourrez pas travailler tout seul, ça va être un peu plus complexe, vous serez séparés et vous ne pourrez pas accéder à toutes les machines.',
@@ -360,7 +360,7 @@ var levels = [
     pollution : 0,
     spawnpoints: [[4,5],[14,4],[7,6],[13,6]],
     seauSpawnpoints: [[3,3],[15,3],[6,8],[14,8]],
-    imagePath: "assets/miniMap/fondrie.PNG",
+    imagePath: "assets/miniMap/fondrie.png",
     name: "Fondrie",
     tutoText: [],
     tutoGuys : [0,1,0,0],
@@ -388,7 +388,7 @@ var levels = [
     pollution : 0,
     spawnpoints: [[4,6],[7,6],[11,6],[16,6]],
     seauSpawnpoints: [[10,7],[13,7]],
-    imagePath: "assets/miniMap/fordisme.PNG",
+    imagePath: "assets/miniMap/fordisme.png",
     name: "Fordisme",
     tutoText: [
       'Ce niveau est conseillé pour 4 ouvriers.',
@@ -420,7 +420,7 @@ var levels = [
     pollution : 0,
     spawnpoints: [[4,7],[15,8],[3,3],[16,3]],
     seauSpawnpoints: [[5,2],[6,2],[17,9]],
-    imagePath: "assets/miniMap/teletravail.PNG",
+    imagePath: "assets/miniMap/teletravail.png",
     name: "Teletravail",
     tutoText: [
       'Vous avez besoin d\'être une équipe de 4 pour réussir dans cette usine, chacun à un poste et vous ne pouvez vous envoyer les objets qu\'avec des tapis roulants.'
@@ -451,7 +451,7 @@ var levels = [
     pollution : 0,
     spawnpoints: [[5,7],[14,7],[5,4],[14,4]],
     seauSpawnpoints: [[15,7],[15,8]],
-    imagePath: "assets/miniMap/rond.PNG",
+    imagePath: "assets/miniMap/rond.png",
     name: "Rond-point",
     tutoText: [],
     tutoGuys : [0,1,0,0],
@@ -479,7 +479,7 @@ var levels = [
     pollution : 0,
     spawnpoints: [[8,8],[13,6],[8,6],[13,8]],
     seauSpawnpoints: [[6,3],[15,3],[15,9],[8,9]],
-    imagePath: "assets/miniMap/Un par un.PNG",
+    imagePath: "assets/miniMap/Un par un.png",
     name: "Un par un",
     tutoText: [],
     tutoGuys : [1,1,1,0],
@@ -507,7 +507,7 @@ var levels = [
     pollution : 0,
     spawnpoints: [[5,7],[10,7],[7,3],[16,3]],
     seauSpawnpoints: [[4,6],[18,4]],
-    imagePath: "assets/miniMap/Machine.PNG",
+    imagePath: "assets/miniMap/Machine.png",
     name: "Machine a laver",
     tutoText: [
       "On a plus beaucoup de seaux ici.\nVous allez devoir frotter les amis!"
@@ -537,7 +537,7 @@ var levels = [
     pollution : 10,
     spawnpoints: [[5,5],[9,5],[7,5],[11,5]],
     seauSpawnpoints: [[7,7],[11,8],[5,10]],
-    imagePath: "assets/miniMap/Way.PNG",
+    imagePath: "assets/miniMap/Way.png",
     name: "Show me da way",
     tutoText: [
       "Do you know the way ?"
@@ -657,7 +657,7 @@ var levels = [
     pollution : 0,
     spawnpoints: [[10,4],[13,7],[7,6],[13,9]],
     seauSpawnpoints: [[4,10],[4,9]],
-    imagePath: "assets/miniMap/dock.PNG",
+    imagePath: "assets/miniMap/dock.png",
     name: "Dock",
     tutoText: [],
     tutoGuys : [0,0,1,0]
@@ -687,7 +687,7 @@ var levels = [
     pollution : 0,
     spawnpoints: [[1,5],[15,5],[2,5],[16,5]],
     seauSpawnpoints: [[2,4],[4,9],[4,6],[15,7],[17,4]],
-    imagePath: "assets/miniMap/road66.PNG",
+    imagePath: "assets/miniMap/road66.png",
     name: "Route 66",
     tutoText: [],
     tutoGuys : [0,0,1,0]
@@ -715,7 +715,7 @@ var levels = [
     pollution : 0,
     spawnpoints: [[4,5],[4,7],[5,5],[5,7]],
     seauSpawnpoints: [[8,10],[9,10],[3,10],[7,2],[14,2],[15,2]],
-    imagePath: "assets/miniMap/cote.PNG",
+    imagePath: "assets/miniMap/cote.png",
     name: "De chaque cote",
     tutoText: [],
     tutoGuys : [0,0,1,0]
@@ -743,7 +743,7 @@ var levels = [
     pollution : 0,
     spawnpoints: [[2,8],[3,8],[2,9],[2,7]],
     seauSpawnpoints: [[3,7],[5,8]],
-    imagePath: "assets/miniMap/3voies.PNG",
+    imagePath: "assets/miniMap/3voies.png",
     name: "3 voies",
     tutoText:[],
     tutoGuys : [0,0,0,1],
@@ -782,32 +782,32 @@ var levels = [
 var skins = [//permet de stocker tout les skins des persos
   {
     name : 'billy',
-    sprite : 'assets/billy.PNG',
+    sprite : 'assets/billy.png',
     width : 44,
     height : 68
   },{
     name : 'janine',
-    sprite : 'assets/janine.PNG',
+    sprite : 'assets/janine.png',
     width :44,
     height : 68
   },{
     name : 'bob',
-    sprite : 'assets/bob.PNG',
+    sprite : 'assets/bob.png',
     width : 44,
     height : 68
   },{
     name : 'hazman',
-    sprite : 'assets/hazman.PNG',
+    sprite : 'assets/hazman.png',
     width : 44,
     height : 68
   },{
     name : 'ghostbuster',
-    sprite : 'assets/ghostbuster.PNG',
+    sprite : 'assets/ghostbuster.png',
     width : 44,
     height : 68
   },{
     name : 'walle',
-    sprite : 'assets/walle.PNG',
+    sprite : 'assets/walle.png',
     width : 44,
     height : 68
   }
